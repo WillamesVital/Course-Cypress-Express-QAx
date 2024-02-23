@@ -1,0 +1,4 @@
+/apps
+/cypress-express-mark/node_modules
+/cypress-express-mark/allure-results
+/cypress-express-mark/report-server
